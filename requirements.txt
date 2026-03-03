@@ -1,1 +1,1 @@
-xai-sdk
+openai
